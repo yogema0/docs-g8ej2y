@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jxd16d.indcuan.cfd/sitemap.xml
